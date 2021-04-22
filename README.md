@@ -1,7 +1,7 @@
 Title:Give Blood Save Life
-Extrat the files and place in htodocs folder.
+Extract the files and place in htodocs folder.
 
-then start apacheh and mysql in xampp control panel
+then start apache and mysql in xampp control panel
 
 then goto locolhost/phpmyadmin in the browser
 
